@@ -1,55 +1,57 @@
-Caterpie @ Focus Sash  
-Ability: Shield Dust  
-EVs: 252 Atk / 4 SpA / 252 SpD  
-Naughty Nature  
-- Bug Bite  
-- Electroweb  
-- Tackle  
-- String Shot  
+Clefable (F) @ Leftovers
+Ability: Unaware
+EVs: 248 HP / 196 Def / 64 SpD
+Bold Nature
+IVs: 0 Atk
+- Wish
+- Protect
+- Heal Bell
+- Moonblast
 
-Weedle @ Focus Sash  
-Ability: Shield Dust  
-EVs: 4 HP / 252 Atk / 252 SpD  
-Naughty Nature  
-- Bug Bite  
-- Poison Sting  
-- String Shot  
-- Electroweb  
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 248 HP / 252 Def / 8 Spe
+Bold Nature
+IVs: 0 Atk
+- Stealth Rock
+- Toxic
+- Soft-Boiled
+- Seismic Toss
 
-Wurmple @ Eviolite  
-Ability: Shield Dust  
-EVs: 252 Atk / 4 SpA / 252 SpD  
-Naughty Nature  
-- Bug Bite  
-- Poison Sting  
-- Electroweb  
-- String Shot  
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 28 HP
+- Earthquake
+- Reversal
+- Toxic
+- Pursuit
 
-Kricketot @ Focus Sash  
-Ability: Shed Skin  
-EVs: 4 HP / 252 SpA / 252 SpD  
-Quiet Nature  
-- Struggle Bug  
-- Bug Bite  
-- Endeavor  
-- Mud-Slap  
+Skarmory @ Shed Shell
+Ability: Sturdy
+EVs: 248 HP / 244 Def / 16 Spe
+Impish Nature
+- Spikes
+- Defog
+- Roost
+- Counter
 
-Azurill @ Eviolite  
-Ability: Huge Power  
-EVs: 252 Atk / 4 Def / 252 SpD  
-Adamant Nature  
-- Knock Off  
-- Waterfall  
-- Return  
-- Double-Edge  
+Sableye-Mega (F) @ Sablenite
+Ability: Prankster
+EVs: 248 HP / 160 Def / 100 SpD
+Careful Nature
+- Protect
+- Will-O-Wisp
+- Recover
+- Knock Off
 
-Sunkern @ Focus Sash  
-Ability: Chlorophyll  
-EVs: 252 SpA / 252 SpD / 4 Spe  
-Calm Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Leech Seed  
-- Protect  
-- Earth Power  
-
+Toxapex (F) @ Leftovers
+Ability: Regenerator
+EVs: 248 HP / 204 Def / 56 SpD
+Bold Nature
+IVs: 0 Atk / 30 Spe
+- Scald
+- Recover
+- Toxic Spikes
+- Haze
